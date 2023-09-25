@@ -1,9 +1,11 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RifatArefin32.RifatArefin32&"  />
-</div>
 <h1 align="center">Hi 👋, I'm Rifat Arefin</h1>
 <h3 align="center">CSE undergraduate @ <a href='https://www.kuet.ac.bd/index.php'>KUET, Bangladesh</a>.</h3>
-<p align="center"> <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/279642620_1962541080800952_2017761487451853947_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeEVgPa-CCeSnihNnhfPv7t3bvZcCYvj4Bxu9lwJi-PgHKQEiM0pWNcPInet3tZfcfGDVeDnsWs51MAHIHlhJhv2&_nc_ohc=stxKfDusmH0AX9V0lld&_nc_ht=scontent-sin6-2.xx&oh=00_AfBETyNFmBXRDzB-aiP9-COtBgS5tlpwVngPdfR13pUkWA&oe=6515E97E" height=350, width=550 alt="rifatarefin32" BORDER="3"> 
+  
+<p align="center">
+<kbd align="center">
+  <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/279642620_1962541080800952_2017761487451853947_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeEVgPa-CCeSnihNnhfPv7t3bvZcCYvj4Bxu9lwJi-PgHKQEiM0pWNcPInet3tZfcfGDVeDnsWs51MAHIHlhJhv2&_nc_ohc=stxKfDusmH0AX9V0lld&_nc_ht=scontent-sin6-2.xx&oh=00_AfBETyNFmBXRDzB-aiP9-COtBgS5tlpwVngPdfR13pUkWA&oe=6515E97E" height=350, width=550 alt="rifatarefin32">
+</kbd>
+</p>
 
 <p align='center'>Welcome to my Github profile!<br>
 I am a CSE undergraduate  from Khulna, Bangladesh.
