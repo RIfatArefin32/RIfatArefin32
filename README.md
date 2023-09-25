@@ -25,9 +25,29 @@ I've been continuing Competitive Programming since 2019. I practice problems in 
 <br>
 <h2 align="left">🌐 Connect with me</h2>
 <p>
-<a href= "https://github.com/RifatArefin32"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> &nbsp&nbsp&nbsp <a href= "https://www.linkedin.com/in/https://www.linkedin.com/in/rifat-arefin-b9547a1a7//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a> &nbsp&nbsp&nbsp <a href= "https://www.facebook.com/rifatarefin.mahim"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a> &nbsp&nbsp&nbsp <a href= "https://www.instagram.com/rifat_arefin_32/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a> &nbsp&nbsp&nbsp <a href= "https://twitter.com/RifatArefin32"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a> &nbsp&nbsp&nbsp <a href= "mailto:arefinrifat786@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Gmail' height='40'></a>
+<a href= "https://www.linkedin.com/in/https://www.linkedin.com/in/rifat-arefin-b9547a1a7//"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="40" alt="linkedin logo"  /></a> &nbsp&nbsp&nbsp <a href= "https://www.facebook.com/rifatarefin.mahim"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="40" alt="facebook logo"  /></a> &nbsp&nbsp&nbsp <a href= "https://www.instagram.com/rifat_arefin_32/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="40" alt="instagram logo"  /></a> &nbsp&nbsp&nbsp <a href= "https://twitter.com/RifatArefin32"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="40" alt="twitter logo"  /></a> &nbsp&nbsp&nbsp <a href= "mailto:arefinrifat786@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="40" alt="gmail logo"  /></a> &nbsp&nbsp&nbsp <a href= " https://wa.me/01881445919"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="40" alt="whatsapp logo"  /></a>
 </p>
 <br>
+
+
+<div align="center">
+  
+  
+  
+  
+  
+  
+</div>
+
+###
+
+
+
+
+
+
+
+
 <h2 align="left">💻 Find me</h2>
 <p align="left">
 <a href="https://codeforces.com/profile/3_arrieffaitn_2" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'></a>  &nbsp&nbsp&nbsp <a href="https://www.leetcode.com/rifatarefin32" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a> &nbsp&nbsp&nbsp <a href="https://atcoder.jp/users/RifatArefin32" target="blank"><img src='https://img.atcoder.jp/assets/top/img/logo_bk.svg' alt='atcoder' height='40'></a> 
