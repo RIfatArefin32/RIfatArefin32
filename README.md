@@ -7,10 +7,8 @@
 </kbd>
 </p>
 
-<p align='center'>Welcome to my Github profile!<br>
-I am a CSE undergraduate  from Khulna, Bangladesh.
-I love building projects, problem solving and attend in programming contests.</p>
-I've been continuing Competitive Programming since 2019. I practice problems in various Online Judge e.g. Codeforces, AtCoder, LightOJ and so on whereas I do code in C++. I also made JavaFx application, Website using PHP, HTML, CSS, JAVASCRIPT, Bootstrap, Android application using FLUTTER and many other projects.
+<h3 align='center'>Welcome to my Github profile!</h3>
+I am a CSE undergraduate. I love building projects, problem solving and attend in programming contests. I've been continuing problem solving since 2019. I practice problems in various Online Judge e.g. Codeforces, AtCoder, LightOJ and so on whereas I do code in C++. I also made JavaFx application, Website using PHP, HTML, CSS, JAVASCRIPT, Bootstrap, Android application using FLUTTER and many other projects.
 
 <h4>SKILLS:  PROBLEM SOLVING / C++ / PYTHON / FLUTTER / HTML / CSS / PHP</h4>
 <br>
@@ -30,28 +28,9 @@ I've been continuing Competitive Programming since 2019. I practice problems in 
 </p>
 <br>
 
-
-<div align="center">
-  
-  
-  
-  
-  
-  
-</div>
-
-###
-
-
-
-
-
-
-
-
 <h2 align="left">💻 Find me</h2>
 <p align="left">
-<a href="https://codeforces.com/profile/3_arrieffaitn_2" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'></a>  &nbsp&nbsp&nbsp <a href="https://www.leetcode.com/rifatarefin32" target="blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a> &nbsp&nbsp&nbsp <a href="https://atcoder.jp/users/RifatArefin32" target="blank"><img src='https://img.atcoder.jp/assets/top/img/logo_bk.svg' alt='atcoder' height='40'></a> 
+<a href="https://codeforces.com/profile/3_arrieffaitn_2" target="blank" title="Codeforces"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'></a>  &nbsp&nbsp&nbsp <a href="https://www.leetcode.com/rifatarefin32" target="blank" title="LeetCode"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a> &nbsp&nbsp&nbsp <a href="https://atcoder.jp/users/RifatArefin32" target="blank" title="AtCoder"><img src='https://img.atcoder.jp/assets/top/img/logo_bk.svg' alt='atcoder' height='40'></a> 
 <br>
 For more info. <a href="https://www.stopstalk.com/user/profile/Rifat_Arefin_32"> click here. </a>
 </p>
