@@ -6,7 +6,7 @@
 <h3 align='center'>Welcome to my Github profile!</h3>
 I am a CSE undergraduate. I love building projects, problem solving and attend in programming contests. I've been continuing problem solving since 2019. I practice problems in various Online Judge e.g. Codeforces, AtCoder, LightOJ and so on whereas I do code in C++. I also made JavaFx application, Website using PHP, HTML, CSS, JAVASCRIPT, Bootstrap, Android application using FLUTTER and many other projects.
 
-<h4>SKILLS:  PROBLEM SOLVING / C++ / PYTHON / FLUTTER / HTML / CSS / PHP</h4>
+<h4>SKILLS:  PROBLEM SOLVING | C++ | PYTHON | FLUTTER | HTML | CSS | PHP</h4>
 <br>
 <h2 align="left">👩‍💻  About Me</h2>
 
