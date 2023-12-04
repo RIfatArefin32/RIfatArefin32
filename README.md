@@ -14,7 +14,7 @@ I am a CSE undergraduate. I love building projects, problem solving and attend i
 - 👨‍💻 All of my projects are available <a href='https://github.com/RIfatArefin32?tab=repositories](https://github.com/RIfatArefin32?tab=repositories'>here.</a>
 - 📫 How to reach me **arefinrifat786@gmail.com**
 - 👀 Take a look at My Portfolio
-- 📄 Here's my Resume
+- 📄 Here's my <a href="https://drive.google.com/drive/folders/1E46qaBXxtudGfuth6cD4JHEp2LPqHD1i">Resume</a>
 
 <br>
 <h2 align="left">🌐 Connect with me</h2>
