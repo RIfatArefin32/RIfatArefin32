@@ -1,10 +1,6 @@
+<img src="https://github.com/RifatArefin32/my-images/blob/main/xxxx.png">
 <h1 align="center">Hi 👋, I'm Rifat Arefin</h1>
-<h3 align="center">CSE undergraduate @ <a href='https://www.kuet.ac.bd/index.php'>KUET, Bangladesh</a>.</h3>
-  
-
-
-<h3 align='center'>Welcome to my Github profile!</h3>
-I am a CSE undergraduate. I love building projects, problem solving and attend in programming contests. I've been continuing problem solving since 2019. I practice problems in various Online Judge e.g. Codeforces, AtCoder, LightOJ and so on whereas I do code in C++. I also made JavaFx application, Website using PHP, HTML, CSS, JAVASCRIPT, Bootstrap, Android application using FLUTTER and many other projects.
+I am a CSE undergraduate at <a href='https://www.kuet.ac.bd/index.php'>Khulna University of Engineering & Technology (KUET), Bangladesh</a>. I love building projects, problem solving and attend in programming contests. I've been continuing problem solving since 2019. I practice problems in various Online Judge e.g. Codeforces, AtCoder, LightOJ and so on whereas I do code in C++. I also made JavaFx application, Website using PHP, HTML, CSS, JAVASCRIPT, Bootstrap, Android application using FLUTTER and many other projects.
 
 <h4>SKILLS:  PROBLEM SOLVING | C++ | PYTHON | FLUTTER | HTML | CSS | PHP</h4>
 <br>
