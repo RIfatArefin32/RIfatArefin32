@@ -17,7 +17,7 @@ I am a CSE undergraduate at <a href='https://www.kuet.ac.bd/index.php'>Khulna Un
 <h2 align="left">💻 My problem solving platforms</h2>
 <p align="left">
 <a href="https://codeforces.com/profile/3_arrieffaitn_2" target="blank" title="Codeforces"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'></a>  &nbsp&nbsp&nbsp&nbsp <a href="https://www.leetcode.com/rifatarefin32" target="blank" title="LeetCode"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a> &nbsp&nbsp&nbsp&nbsp <a href="https://atcoder.jp/users/RifatArefin32" target="blank" title="AtCoder"><img src='https://img.atcoder.jp/assets/top/img/logo_bk.svg' alt='atcoder' height='40'></a> 
-&nbsp&nbsp&nbsp&nbsp <i>For more info. <a href="https://www.stopstalk.com/user/profile/Rifat_Arefin_32"> click here. </a> </i> 
+&nbsp&nbsp&nbsp&nbsp <i>For more info. <a href="https://www.stopstalk.com/user/profile/Rifat_Arefin_32"> click here </a> </i> 
 </p>
 
 <h2 align="left">🛠 Language and tools</h2>
