@@ -5,11 +5,10 @@ I am a CSE undergraduate at <a href='https://www.kuet.ac.bd/index.php'>Khulna Un
 <h4>SKILLS:  PROBLEM SOLVING | C++ | PYTHON | FLUTTER | HTML | CSS | PHP</h4>
 <br>
 <h2 align="left">👩‍💻  About Me</h2>
-- 🔭 I’m currently working on **Alzheimer's Disease Classification and Detection System**
-- 👨‍💻 All of my projects are available <a href='https://github.com/RIfatArefin32?tab=repositories](https://github.com/RIfatArefin32?tab=repositories'>here.</a>
-- 📫 How to reach me **arefinrifat786@gmail.com**
-- 👀 Take a look at My Portfolio
-- 📄 Here's my <a href="https://drive.google.com/file/d/1wXPSC2H-QR64NNOvT_bZTmy70HQVQdhx/view?usp=sharing">Resume</a>
+- 🔭 I’m currently working on <b>Alzheimer's Disease Classification and Detection System</b> <br>
+- 👨‍💻 All of my projects are available <a href='https://github.com/RIfatArefin32?tab=repositories](https://github.com/RIfatArefin32?tab=repositories'>here.</a> <br>
+- 👀 Take a look at My Portfolio <br>
+- 📄 Here's my <a href="https://drive.google.com/file/d/1mgSmLQtSPOgHV5k3CZJK5XdkYawcQjdp/view?usp=sharing">Resume</a>
 
 <h2 align="left">🌐 Connect with me</h2>
 <p>
@@ -18,7 +17,7 @@ I am a CSE undergraduate at <a href='https://www.kuet.ac.bd/index.php'>Khulna Un
 <h2 align="left">💻 My problem solving platforms</h2>
 <p align="left">
 <a href="https://codeforces.com/profile/3_arrieffaitn_2" target="blank" title="Codeforces"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'></a>  &nbsp&nbsp&nbsp&nbsp <a href="https://www.leetcode.com/rifatarefin32" target="blank" title="LeetCode"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a> &nbsp&nbsp&nbsp&nbsp <a href="https://atcoder.jp/users/RifatArefin32" target="blank" title="AtCoder"><img src='https://img.atcoder.jp/assets/top/img/logo_bk.svg' alt='atcoder' height='40'></a> 
-For more info. <a href="https://www.stopstalk.com/user/profile/Rifat_Arefin_32"> click here. </a>
+&nbsp&nbsp&nbsp&nbsp <i>For more info. <a href="https://www.stopstalk.com/user/profile/Rifat_Arefin_32"> click here. </a> </i> 
 </p>
 
 <h2 align="left">🛠 Language and tools</h2>
