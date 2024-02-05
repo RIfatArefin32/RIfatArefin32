@@ -6,7 +6,7 @@ I am a CSE undergraduate at <a href='https://www.kuet.ac.bd/index.php'>Khulna Un
 <br>
 <h2 align="left">👩‍💻  About Me</h2>
 - 🔭 I’m currently working on <b>Alzheimer's Disease Classification and Detection System</b> <br>
-- 👨‍💻 All of my projects are available <a href='https://github.com/RIfatArefin32?tab=repositories](https://github.com/RIfatArefin32?tab=repositories'>here</a> <br>
+- 👨‍💻 All of my projects are available <a href='https://github.com/RifatArefin32?tab=repositories'>here</a> <br>
 - 👀 Take a look at My Portfolio <br>
 - 📄 Here's my <a href="https://drive.google.com/file/d/1mgSmLQtSPOgHV5k3CZJK5XdkYawcQjdp/view?usp=sharing">Resume</a>
 
