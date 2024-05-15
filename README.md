@@ -10,10 +10,18 @@ I am currently working at <a href="https://brainstation-23.com/?1">Brain Station
 <br>
 
 <h2 align="left">👩‍💻  About Me</h2>
-- 🔭 I’m currently working on <b>Alzheimer's Disease Classification and Detection System</b> <br>
+- 💼 Associate Software Engineer at <a href="https://brainstation-23.com/?1">Brain Station 23 PLC</a> 
 - 👨‍💻 All of my projects are available <a href='https://github.com/RifatArefin32?tab=repositories'>here</a> <br>
 - 👀 Take a look at My Portfolio <br>
 - 📄 Here's my <a href="https://drive.google.com/file/d/1mgSmLQtSPOgHV5k3CZJK5XdkYawcQjdp/view?usp=sharing">Resume</a>
+- 💼
+
+<h2 align="left">👩‍💻  Education</h2>
+- 💼 Associate Software Engineer at <b>Brain Station 23 PLC.</b> <br>
+- 👨‍💻 All of my projects are available <a href='https://github.com/RifatArefin32?tab=repositories'>here</a> <br>
+- 👀 Take a look at My Portfolio <br>
+- 📄 Here's my <a href="https://drive.google.com/file/d/1mgSmLQtSPOgHV5k3CZJK5XdkYawcQjdp/view?usp=sharing">Resume</a>
+- 💼
 
 <h2 align="left">🌐 Connect with me</h2>
 <p>
