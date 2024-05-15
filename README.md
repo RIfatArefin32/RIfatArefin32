@@ -1,6 +1,6 @@
 <img src="https://github.com/RifatArefin32/my-images/blob/main/xxxx.png">
 
-<h1 align="center">Hi 👋, I'm Rifat Arefin</h1>
+<h1 align="center">Hi 👋 I'm Rifat Arefin</h1>
 
 <p align="justify">
 I am currently working at <a href="https://brainstation-23.com/?1">Brain Station 23 PLC</a> as Associate Software Engineer. I'm engaged in PHP stack works. I've completed my graduation from <a href="https://www.kuet.ac.bd/"> Khulna University of Engineering & Technology (KUET), Bangladesh </a>. I enjoy constructing projects, solving problems, and participating in programming contests. Since 2019, I have continued to program solving. I practice programming problems in various Online Judge like Codeforces, AtCoder, LightOJ and so on whereas I do code in C++. I've developed desktop application using JavaFx, Web applications using PHP, HTML, CSS, JAVASCRIPT, Bootstrap, Android application using FLUTTER and many other projects.
@@ -10,18 +10,11 @@ I am currently working at <a href="https://brainstation-23.com/?1">Brain Station
 <br>
 
 <h2 align="left">👩‍💻  About Me</h2>
-- 💼 Associate Software Engineer at <a href="https://brainstation-23.com/?1">Brain Station 23 PLC</a> 
-- 👨‍💻 All of my projects are available <a href='https://github.com/RifatArefin32?tab=repositories'>here</a> <br>
-- 👀 Take a look at My Portfolio <br>
-- 📄 Here's my <a href="https://drive.google.com/file/d/1mgSmLQtSPOgHV5k3CZJK5XdkYawcQjdp/view?usp=sharing">Resume</a>
-- 💼
-
-<h2 align="left">👩‍💻  Education</h2>
-- 💼 Associate Software Engineer at <b>Brain Station 23 PLC.</b> <br>
-- 👨‍💻 All of my projects are available <a href='https://github.com/RifatArefin32?tab=repositories'>here</a> <br>
-- 👀 Take a look at My Portfolio <br>
-- 📄 Here's my <a href="https://drive.google.com/file/d/1mgSmLQtSPOgHV5k3CZJK5XdkYawcQjdp/view?usp=sharing">Resume</a>
-- 💼
+ 💼 &nbsp Associate Software Engineer at <a href="https://brainstation-23.com/?1">Brain Station 23 PLC</a> <br>
+ 💻 &nbsp All of my projects are available <a href='https://github.com/RifatArefin32?tab=repositories'>here</a> <br>
+ 🪪 &nbsp Take a look at My Portfolio <br>
+ 📜 &nbsp Here's my <a href="https://drive.google.com/file/d/1mgSmLQtSPOgHV5k3CZJK5XdkYawcQjdp/view?usp=sharing">Resume</a> <br>
+ 🎓 &nbsp Education: <a href="https://www.kuet.ac.bd/">KUET</a> | <a href="https://ndc.edu.bd/">NDC</a> | <a href="https://mubc.edu.bd/">MUBC</a>
 
 <h2 align="left">🌐 Connect with me</h2>
 <p>
