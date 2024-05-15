@@ -7,7 +7,7 @@ I am currently working at <a href="https://brainstation-23.com/?1">Brain Station
 </p>
 
 <h4>SKILLS: &nbsp PROBLEM SOLVING | C++ | PHP | PYTHON | FLUTTER | HTML | CSS </h4>
-
+<br>
 <h2 align="left">👩‍💻 About Me</h2>
  💼 &nbsp Associate Software Engineer at <a href="https://brainstation-23.com/?1">Brain Station 23 PLC</a> <br>
  💻 &nbsp All of my projects are available <a href='https://github.com/RifatArefin32?tab=repositories'>here</a> <br>
