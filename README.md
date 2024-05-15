@@ -1,9 +1,14 @@
 <img src="https://github.com/RifatArefin32/my-images/blob/main/xxxx.png">
+
 <h1 align="center">Hi 👋, I'm Rifat Arefin</h1>
-I am a CSE undergraduate at <a href='https://www.kuet.ac.bd/index.php'>Khulna University of Engineering & Technology (KUET), Bangladesh</a>. I love building projects, problem solving and attend in programming contests. I've been continuing problem solving since 2019. I practice problems in various Online Judge e.g. Codeforces, AtCoder, LightOJ and so on whereas I do code in C++. I also made JavaFx application, Website using PHP, HTML, CSS, JAVASCRIPT, Bootstrap, Android application using FLUTTER and many other projects.
+
+<p align="justify">
+I am currently working at <a href="https://brainstation-23.com/?1">Brain Station 23 PLC</a> as Associate Software Engineer. I'm engaged in PHP stack works. I've completed my graduation from <a href="https://www.kuet.ac.bd/"> Khulna University of Engineering & Technology (KUET), Bangladesh </a>. I enjoy constructing projects, solving problems, and participating in programming contests. Since 2019, I have continued to program solving. I practice programming problems in various Online Judge like Codeforces, AtCoder, LightOJ and so on whereas I do code in C++. I've developed desktop application using JavaFx, Web applications using PHP, HTML, CSS, JAVASCRIPT, Bootstrap, Android application using FLUTTER and many other projects.
+</p>
 
 <h4>SKILLS:  PROBLEM SOLVING | C++ | PYTHON | FLUTTER | HTML | CSS | PHP</h4>
 <br>
+
 <h2 align="left">👩‍💻  About Me</h2>
 - 🔭 I’m currently working on <b>Alzheimer's Disease Classification and Detection System</b> <br>
 - 👨‍💻 All of my projects are available <a href='https://github.com/RifatArefin32?tab=repositories'>here</a> <br>
