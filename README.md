@@ -14,7 +14,7 @@ I am currently working at <a href="https://brainstation-23.com/?1">Brain Station
  🪪 &nbsp Take a look at My Portfolio <br>
  📜 &nbsp Here's my <a href="https://drive.google.com/file/d/1mgSmLQtSPOgHV5k3CZJK5XdkYawcQjdp/view?usp=sharing">Resume</a> <br>
  🎓 &nbsp Education: <a href="https://www.kuet.ac.bd/">KUET</a> | <a href="https://ndc.edu.bd/">NDC</a> | <a href="https://mubc.edu.bd/">MUBC</a>
-
+<br>
 <h2 align="left">💻 My problem solving platforms</h2>
 <p align="left">
 <a href="https://codeforces.com/profile/3_arrieffaitn_2" target="blank" title="Codeforces"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'></a>  &nbsp&nbsp&nbsp&nbsp <a href="https://www.leetcode.com/rifatarefin32" target="blank" title="LeetCode"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a> &nbsp&nbsp&nbsp&nbsp <a href="https://atcoder.jp/users/RifatArefin32" target="blank" title="AtCoder"><img src='https://img.atcoder.jp/assets/top/img/logo_bk.svg' alt='atcoder' height='40'></a> 
@@ -29,7 +29,7 @@ I am currently working at <a href="https://brainstation-23.com/?1">Brain Station
 <p>
 <a href= "https://www.linkedin.com/in/https://www.linkedin.com/in/rifat-arefin-b9547a1a7//"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" title="LinkedIn" width="37" height="40" alt="linkedin logo"  /></a> &nbsp&nbsp&nbsp&nbsp <a href= "https://www.facebook.com/rifatarefin.mahim"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="40" alt="facebook logo" title="Facebook"  /></a> &nbsp&nbsp&nbsp&nbsp <a href= "https://www.instagram.com/rifat_arefin_32/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" title="Facebook" width="37" height="40" alt="instagram logo" title="Instagram"  /></a> &nbsp&nbsp&nbsp&nbsp <a href= "https://twitter.com/RifatArefin32"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="40" alt="twitter logo" title="Twitter"  /></a> &nbsp&nbsp&nbsp&nbsp <a href= "https://mail.google.com/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="40" title="arefinrifat786@gmail.com" alt="arefinrifat786@gmail.com"  /></a> &nbsp&nbsp&nbsp&nbsp <a href="https://wa.me/+8801881445919"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="40" alt="whatsapp logo" title="Whatsapp" /></a>
  </p>
-
+<br>
 <h2 align="left">🔥 My Stats</h2>
 <table border="0">
   <tr>
