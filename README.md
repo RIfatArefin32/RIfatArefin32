@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Rifat Arefin</h1>
 
 <p align="justify">
-I am currently working at <a href="https://brainstation-23.com/?1">Brain Station 23 PLC</a> as Associate Software Engineer. I'm engaged in <b>PHP</b> stack works. I've completed my graduation from <a href="https://www.kuet.ac.bd/"> Khulna University of Engineering & Technology (KUET)</a>. I enjoy learing and exploring various aspects of Computer Science, developing projects, solving problems and participating in programming contests. Since 2019, I have continued to program solving. I practice programming problems in various Online Judge like Codeforces, AtCoder, LightOJ and so on whereas I do code in C++. I've developed Web Applications, Mobile Applications and projects on various fields e.g. Artificial Intelligence, Deep Learning, Computer Graphics etc.
+I am currently working at <a href="https://brainstation-23.com/?1">Brain Station 23 PLC</a> as Associate Software Engineer. I'm engaged in <b>PHP</b> stack works. I've completed my graduation from <a href="https://www.kuet.ac.bd/"> Khulna University of Engineering & Technology (KUET)</a>. I enjoy learing and exploring various aspects of Computer Science, developing various projects, solving programming problems and participating in programming contests. I practice programming problems in various Online Judge like Codeforces, AtCoder, LeetCode, LightOJ etc. whereas I do code in C++. I've developed Web Applications, Mobile Applications and projects on various fields e.g. Artificial Intelligence, Deep Learning, Computer Graphics etc.
 </p>
 
 <h4> SKILLS &nbsp | &nbsp PROBLEM SOLVING &nbsp | &nbsp DEEP LEARNING &nbsp | &nbsp C++ &nbsp | &nbsp PHP &nbsp |  &nbsp  LARAVEL &nbsp | &nbsp  WORDPRESS &nbsp </h4>
