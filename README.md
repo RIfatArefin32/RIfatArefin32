@@ -12,18 +12,43 @@ I am currently working at <a href="https://brainstation-23.com/?1">Brain Station
  💼 &nbsp Associate Software Engineer at <a href="https://brainstation-23.com/?1">Brain Station 23 PLC</a> <br>
  💻 &nbsp All of my projects are available <a href='https://github.com/RifatArefin32?tab=repositories'>here</a> <br>
  🪪 &nbsp Take a look at My Portfolio <br>
- 📜 &nbsp Here's my <a href="https://drive.google.com/file/d/1mgSmLQtSPOgHV5k3CZJK5XdkYawcQjdp/view?usp=sharing">Resume</a> <br>
+ 📜 &nbsp Here's my <a href="https://drive.google.com/file/d/14_R7-xKYYeVIqpWyxwk-zv2dsu1iku6c/view?usp=sharing">Resume</a> <br>
  🎓 &nbsp Education: <a href="https://www.kuet.ac.bd/">KUET</a> | <a href="https://ndc.edu.bd/"> NDC </a> | <a href="https://mubc.edu.bd/"> MUBC </a>
 <br>
 <h2 align="left">💻 My problem solving platforms</h2>
-<p align="left">
-<a href="https://codeforces.com/profile/3_arrieffaitn_2" target="blank" title="Codeforces"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'></a>  &nbsp&nbsp&nbsp&nbsp <a href="https://www.leetcode.com/rifatarefin32" target="blank" title="LeetCode"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a> &nbsp&nbsp&nbsp&nbsp <a href="https://atcoder.jp/users/RifatArefin32" target="blank" title="AtCoder"><img src='https://img.atcoder.jp/assets/top/img/logo_bk.svg' alt='atcoder' height='40'></a> 
-&nbsp&nbsp&nbsp&nbsp <i>For more info. <a href="https://www.stopstalk.com/user/profile/Rifat_Arefin_32"> click here </a> </i> 
-</p>
+
+<div>
+<a href="https://codeforces.com/profile/3_arrieffaitn_2" style="text-decoration: none"><img alt="Static Badge" src="https://img.shields.io/badge/codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoSize=auto" hight="30"> </a>
+<a href="https://leetcode.com/u/rifatarefin32/" style="text-decoration: none"><img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow&logoSize=auto" hight="30"> </a>
+<a href="https://atcoder.jp/users/RifatArefin32" style="text-decoration: none"><img alt="Static Badge" src="https://img.shields.io/badge/atcoder-brightgreen?style=for-the-badge" hight="30"> </a> <br>
+<small>For more info. <a href="https://www.stopstalk.com/user/profile/Rifat_Arefin_32"> click here </a> </small>
+</div>
+
 
 <h2 align="left">🛠 Language and tools</h2>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp&nbsp&nbsp <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp&nbsp&nbsp <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp&nbsp&nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp&nbsp&nbsp <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp&nbsp&nbsp <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp&nbsp&nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp&nbsp&nbsp <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp&nbsp&nbsp <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp&nbsp&nbsp <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp&nbsp&nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp&nbsp&nbsp <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<div align="left"> 
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" alt="C"/>
+ <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge" height="30" alt="C++"  />
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" alt="PHP"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5"  />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3"  />
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript"/> 
+</div>
+
+
+<div>  
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30" alt="laravel"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/wordpress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white&logoSize=auto">
+<img alt="Moodle" src="https://img.shields.io/badge/moodle-%23F98012?style=for-the-badge&logo=moodle&logoColor=white&logoSize=auto">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql"  />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase"  />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman"  />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+</div>
 
 <h2 align="left">🌐 Connect with me</h2>
 <p>
