@@ -1,5 +1,3 @@
-<img src="https://github.com/RifatArefin32/my-images/blob/main/xxxx.png">
-
 <h1 align="center">Hi 👋 I'm Rifat Arefin</h1>
 
 <p align="justify">
